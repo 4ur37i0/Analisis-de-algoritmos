@@ -1,7 +1,7 @@
 #Aurelio Rendon Viciego - D01
 import tkinter as tk
 import random
-import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt # type: ignore
 from tkinter import *
 
 
